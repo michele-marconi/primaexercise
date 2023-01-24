@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "prima-exercise"
+rootProject.name = "primaexercise"
 include ':app'

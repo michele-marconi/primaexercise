@@ -6,7 +6,7 @@ import retrofit2.converter.moshi.MoshiConverterFactory
 
 class RemoteDataSource : BaseRepo() {
     private var client: CountriesService
-    private val endpoint = "https://https://restcountries.com/v3.1/"
+    private val endpoint = "https://restcountries.com/v3.1/"
 
     init {
         val oAuthClient = OkHttpClient.Builder().build()

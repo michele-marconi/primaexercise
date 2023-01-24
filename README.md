@@ -1,1 +1,1 @@
-# prima-exercise
+# primaexercise
