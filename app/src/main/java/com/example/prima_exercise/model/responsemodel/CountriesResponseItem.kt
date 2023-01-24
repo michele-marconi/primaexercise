@@ -13,11 +13,11 @@ data class CountriesResponseItem(
     val cioc: String,
     val coatOfArms: CoatOfArms,
     val continents: List<String>,
-    val currencies: Currencies,
-    val demonyms: Demonyms,
+    //val currencies: Currencies,
+    //val demonyms: Demonyms,
     val fifa: String,
     val flag: String,
-    val flags: Flags,
+    //val flags: Flags,
     val gini: Gini,
     val idd: Idd,
     val independent: Boolean,
@@ -34,6 +34,6 @@ data class CountriesResponseItem(
     val subregion: String,
     val timezones: List<String>,
     val tld: List<String>,
-    val translations: Translations,
+    //val translations: Translations,
     val unMember: Boolean
 )
